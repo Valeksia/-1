@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>body {
+    <style>
+    p{font-family:Verdana, Geneva, Tahoma, sans-serif}
+    body {
 		background: url(https://funart.pro/uploads/posts/2021-04/1618513597_36-funart_pro-p-oboi-fon-nezhno-rozovii-fon-odnotonnii-36.jpg);</style>
     <title>Document</title>
 </head>
