@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body bgcolor = "f0f8ff">
-    <h1 align = "center"> <font color = "#CD5C5C">Страница студентки ксении Клименко</font></h1>
+    <h1 align = "center"> <font color = "#CD5C5C">Страница студентки Ксении Клименко</font></h1>
     <img align = "left" hspace = "15" src = "https://sun9-52.userapi.com/impg/mpU-Ck6Gv6RJBtClMDr4HDgSOJvMdskhcWRGXA/X8jkaObkac4.jpg?size=960x960&quality=96&sign=4a0da01f7f5757e21793a48f1baecffd&type=album" height="170" width="170" >
     <p align = "justify"><font size = "5" color = "#A66400">Окончила школу №1 ст.Ольгинской, на данный
             момент обучаюсь в РКСИ, на специальности «Информационные системы и программирование» </font></p>
